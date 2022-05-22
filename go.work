@@ -1,0 +1,8 @@
+go 1.18
+
+use (
+	./Lesson4/BarberShop
+	./Lesson4/CarRoute
+	./Lesson4/DiscountCalculator
+	./Lesson4/NumberModule
+)
