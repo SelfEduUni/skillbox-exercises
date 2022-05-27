@@ -5,11 +5,15 @@ use (
 	./Lesson4/BetterBarber
 	./Lesson4/CarRoute
 	./Lesson4/CheckAdditionSkill
+	./Lesson4/Cosmonauts
 	./Lesson4/DepartmentSalary
 	./Lesson4/DiscountCalculator
+	./Lesson4/DiscountCalculator2
 	./Lesson4/DivisibleNumber
 	./Lesson4/ExpirienceCalc
+	./Lesson4/GuessNumber
 	./Lesson4/IsEvenNumber
+	./Lesson4/LeapYear
 	./Lesson4/MenuOfRestaurant
 	./Lesson4/Minimum
 	./Lesson4/NumberModule
