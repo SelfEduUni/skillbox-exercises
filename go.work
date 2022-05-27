@@ -2,7 +2,15 @@ go 1.18
 
 use (
 	./Lesson4/BarberShop
+	./Lesson4/BetterBarber
 	./Lesson4/CarRoute
+	./Lesson4/CheckAdditionSkill
+	./Lesson4/DepartmentSalary
 	./Lesson4/DiscountCalculator
+	./Lesson4/DivisibleNumber
+	./Lesson4/ExpirienceCalc
+	./Lesson4/IsEvenNumber
+	./Lesson4/MenuOfRestaurant
+	./Lesson4/Minimum
 	./Lesson4/NumberModule
 )
