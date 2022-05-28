@@ -1,6 +1,7 @@
 go 1.18
 
 use (
+	./Lesson4/ATM
 	./Lesson4/BarberShop
 	./Lesson4/BetterBarber
 	./Lesson4/CarRoute
@@ -16,5 +17,11 @@ use (
 	./Lesson4/LeapYear
 	./Lesson4/MenuOfRestaurant
 	./Lesson4/Minimum
+	./Lesson4/NewThreeNumbers
 	./Lesson4/NumberModule
+	./Lesson4/ProgressiveTax
+	./Lesson4/Restoraunt
+	./Lesson4/Students
+	./Lesson4/ThreeNumbers
+	./Lesson4/USEPoints
 )
