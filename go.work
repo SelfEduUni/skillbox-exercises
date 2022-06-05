@@ -24,4 +24,12 @@ use (
 	./Lesson4/Students
 	./Lesson4/ThreeNumbers
 	./Lesson4/USEPoints
+	./Lesson5/GuessNumber
+	./Lesson5/LuckyTicket
+	./Lesson5/MaximalPercentage
+	./Lesson5/OddMoney
+	./Lesson5/PointOnCord
+	./Lesson5/PositiveNumber
+	./Lesson5/SameNumbers
+	./Lesson5/SquareEquation
 )
