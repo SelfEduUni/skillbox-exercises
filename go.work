@@ -32,4 +32,19 @@ use (
 	./Lesson5/PositiveNumber
 	./Lesson5/SameNumbers
 	./Lesson5/SquareEquation
+	./Lesson6/Bucket
+	./Lesson6/CheckPassword
+	./Lesson6/ChickenOrEgg
+	./Lesson6/Discount
+	./Lesson6/Elevator
+	./Lesson6/Horal
+	./Lesson6/Minimum
+	./Lesson6/Minimum2
+	./Lesson6/Multiples
+	./Lesson6/PowerNumber
+	./Lesson6/SimpleLoop
+	./Lesson6/SurplusFour
+	./Lesson6/SurplusNumber
+	./Lesson6/ThreeVars
+	./Lesson6/TwoSums
 )
