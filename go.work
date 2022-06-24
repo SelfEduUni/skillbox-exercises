@@ -47,4 +47,9 @@ use (
 	./Lesson6/SurplusNumber
 	./Lesson6/ThreeVars
 	./Lesson6/TwoSums
+	./Lesson7/ChessBoard
+	./Lesson7/Guess
+	./Lesson7/LuckyTicket
+	./Lesson7/MirracleTicket
+	./Lesson7/Tante
 )
