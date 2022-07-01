@@ -52,4 +52,7 @@ use (
 	./Lesson7/LuckyTicket
 	./Lesson7/MirracleTicket
 	./Lesson7/Tante
+	./Lesson8/ChangeCalculation
+	./Lesson8/Seasons
+	./Lesson8/Weekdays
 )
