@@ -55,4 +55,6 @@ use (
 	./Lesson8/ChangeCalculation
 	./Lesson8/Seasons
 	./Lesson8/Weekdays
+	./Lesson9/MinimalDataType
+	./Lesson9/Overflow
 )
